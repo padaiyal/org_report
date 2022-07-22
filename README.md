@@ -1,5 +1,5 @@
 
-padaiyal report - 2022-07-22 18:26:53 EDT
+padaiyal report - 2022-07-22 22:33:00 UTC
 =========================================
   
 
@@ -7,7 +7,6 @@ padaiyal report - 2022-07-22 18:26:53 EDT
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[padaiyal/jIcing](https://github.com/padaiyal/jIcing)|Java|🌏|❌|2021-12-19T00:14:49Z|[24](https://github.com/padaiyal/jIcing/issues)|🤷‍|42%|✅|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/pySummarize](https://github.com/padaiyal/pySummarize)|Python|🌏|❌|2022-06-14T01:59:55Z|[2](https://github.com/padaiyal/pySummarize/issues)|GNU General Public License v3.0|57%|✅|❌|❌|❌|❌|✅|✅|0|
-|[padaiyal/jJobUtility](https://github.com/padaiyal/jJobUtility)|Java|🔒|❌|2022-06-14T01:59:37Z|[9](https://github.com/padaiyal/jJobUtility/issues)|🤷‍|‍🤷|✅|🤷‍|✅|🤷‍|🤷‍|🤷‍|🤷‍|0|
 |[padaiyal/jAdya](https://github.com/padaiyal/jAdya)|Java|🌏|❌|2022-05-24T18:58:09Z|[19](https://github.com/padaiyal/jAdya/issues)|Apache License 2.0|57%|✅|❌|❌|❌|❌|✅|✅|4|
 |[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|Java|🌏|✅|2021-12-27T03:38:59Z|[3](https://github.com/padaiyal/jPopper/issues)|Apache License 2.0|71%|✅|✅|❌|❌|❌|✅|✅|2|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|Java|🌏|✅|2022-01-01T03:03:46Z|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|Apache License 2.0|71%|✅|✅|❌|❌|❌|✅|✅|2|
@@ -30,7 +29,5 @@ padaiyal report - 2022-07-22 18:26:53 EDT
 |[padaiyal/jWorkflowPlayground](https://github.com/padaiyal/jWorkflowPlayground)|Java|🌏|✅|2021-12-31T07:08:27Z|[0](https://github.com/padaiyal/jWorkflowPlayground/issues)|Apache License 2.0|57%|✅|❌|❌|❌|❌|✅|✅|0|
 |[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|Go|🌏|✅|2022-01-04T23:25:03Z|[0](https://github.com/padaiyal/go_project_template/issues)|Apache License 2.0|42%|❌|❌|❌|❌|❌|✅|✅|0|
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|Python|🌏|✅|2022-01-14T00:59:36Z|[0](https://github.com/padaiyal/pyProjectTemplate/issues)|Apache License 2.0|42%|❌|❌|❌|❌|❌|✅|✅|0|
-|[padaiyal/trade_bot](https://github.com/padaiyal/trade_bot)|Python|🔒|✅|2022-06-21T23:26:48Z|[1](https://github.com/padaiyal/trade_bot/issues)|Apache License 2.0|‍🤷|✅|🤷‍|✅|🤷‍|🤷‍|🤷‍|🤷‍|2|
-|[padaiyal/user_experience](https://github.com/padaiyal/user_experience)|None|🔒|✅|2022-04-03T00:49:12Z|[0](https://github.com/padaiyal/user_experience/issues)|🤷‍|‍🤷|✅|🤷‍|✅|🤷‍|🤷‍|🤷‍|🤷‍|0|
 |[padaiyal/osnr](https://github.com/padaiyal/osnr)|Python|🌏|✅|2022-06-03T01:50:28Z|[0](https://github.com/padaiyal/osnr/issues)|Apache License 2.0|57%|✅|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|Python|🌏|✅|2022-07-22T21:29:47Z|[0](https://github.com/padaiyal/org_report/issues)|Apache License 2.0|42%|❌|❌|❌|❌|❌|✅|✅|0|
