@@ -1,0 +1,86 @@
+name: Generate organization report
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '*/15 * * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  organization_report:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Checkout submodules
+      run: git submodule update --init --recursive
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Get pip cache dir
+      id: pip-cache
+      run: |
+        echo "::set-output name=dir::$(pip cache dir)"
+    - name: pip cache
+      uses: actions/cache@v3
+      with:
+        path: ${{ steps.pip-cache.outputs.dir }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8
+        if [ -f requirements.txt ]; then pip install -r requirements.txt;
+        elif [ -f setup.py ]; then pip install .; fi
+      shell: bash
+    - name: Run linting check - flake8
+      run: |
+        # Stop the build if there are Python syntax errors or undefined names
+        # It checks for the following:
+        # F701	a break statement outside of a while or for loop
+        # F702	a continue statement outside of a while or for loop
+        # F703	a continue statement in a finally block in a loop
+        # F704	a yield or yield from statement outside of a function
+        # F705	a return statement with arguments inside a generator
+        # F706	a return statement outside of a function/method
+        # F707	an except: block as not the last exception handler
+        # F721	syntax error in doctest
+        # F722	syntax error in forward annotation
+        # F723	syntax error in type comment
+        #
+        # F631	assertion test is a tuple, which is always True
+        # F632	use ==/!= to compare str, bytes, and int literals
+        # F633	use of >> is invalid with print function
+        #        F634	if test is a tuple, which is always True
+        #
+        # F821	undefined name name
+        # F822	undefined name name in _all_
+        # F823	local variable name … referenced before assignment
+        # F831	duplicate argument name in function definition
+        # F841	local variable name is assigned to but never used
+        #
+        # E9	Runtime
+        # E901	SyntaxError or IndentationError
+        # E902	IOError
+        flake8 . --count --max-complexity=10 --max-line-length=120 --statistics
+    - run: python organization_report.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push report
+      env:
+        CI_COMMIT_MESSAGE: Organization report - $(date +'%Y-%m-%dT%H:%M:%S')
+        CI_COMMIT_AUTHOR: padaiyal
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "ranjanmj@gmail.com"
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push
