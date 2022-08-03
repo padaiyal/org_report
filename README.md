@@ -1,5 +1,5 @@
 
-padaiyal report - 2022-08-02 03:33:50 UTC
+padaiyal report - 2022-08-03 03:21:53 UTC
 =========================================
   
 
@@ -8,7 +8,7 @@ padaiyal report - 2022-08-02 03:33:50 UTC
 |[padaiyal/jIcing](https://github.com/padaiyal/jIcing)|Java|🌏|❌|2021-12-19T00:14:49Z|[24](https://github.com/padaiyal/jIcing/issues)|🤷‍|42%|✅|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/pySummarize](https://github.com/padaiyal/pySummarize)|Python|🌏|❌|2022-06-14T01:59:55Z|[2](https://github.com/padaiyal/pySummarize/issues)|GNU General Public License v3.0|57%|✅|❌|❌|❌|❌|✅|✅|0|
 |[padaiyal/jAdya](https://github.com/padaiyal/jAdya)|Java|🌏|❌|2022-05-24T18:58:09Z|[19](https://github.com/padaiyal/jAdya/issues)|Apache License 2.0|57%|✅|❌|❌|❌|❌|✅|✅|4|
-|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|Java|🌏|✅|2021-12-27T03:38:59Z|[3](https://github.com/padaiyal/jPopper/issues)|Apache License 2.0|71%|✅|✅|❌|❌|❌|✅|✅|2|
+|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|Java|🌏|✅|2021-12-27T03:38:59Z|[4](https://github.com/padaiyal/jPopper/issues)|Apache License 2.0|71%|✅|✅|❌|❌|❌|✅|✅|2|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|Java|🌏|✅|2022-01-01T03:03:46Z|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|Apache License 2.0|71%|✅|✅|❌|❌|❌|✅|✅|2|
 |[padaiyal/jProperties](https://github.com/padaiyal/jProperties)|Java|🌏|✅|2021-05-10T19:59:24Z|[1](https://github.com/padaiyal/jProperties/issues)|Apache License 2.0|57%|✅|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/jCommandLine](https://github.com/padaiyal/jCommandLine)|Java|🌏|✅|2021-05-24T01:25:20Z|[0](https://github.com/padaiyal/jCommandLine/issues)|Apache License 2.0|57%|✅|❌|❌|❌|❌|✅|✅|1|
