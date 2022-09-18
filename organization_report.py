@@ -1,8 +1,6 @@
 import datetime
-import json
 import os
 
-import requests
 from mdutils import MdUtils
 from typing import List
 
