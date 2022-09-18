@@ -54,16 +54,17 @@ def generate_organization_report() -> None:
         )
         latest_release_info: dict = repository.get_repository_latest_version()
         latest_release: str = f"[{latest_release_info.get('name', '🤷‍')}]({latest_release_info.get('html_url')})"
+        repository_additional_info: dict = repository.additional_info
         table.extend(
             [
-                f"[{repository['full_name']}]({repository['html_url']})",
+                f"[{repository_additional_info['full_name']}]({repository_additional_info['html_url']})",
                 latest_release,
-                repository['language'],
-                '🔒' if bool(repository['private']) else '🌏',
-                get_boolean_representation(not bool(repository['archived'])),
-                repository['updated_at'],
-                f"[{repository['open_issues_count']}]({repository['html_url']}/issues)",
-                repository['license']['name'] if repository['license'] else '🤷‍',
+                repository_additional_info['language'],
+                '🔒' if bool(repository_additional_info['private']) else '🌏',
+                get_boolean_representation(not bool(repository_additional_info['archived'])),
+                repository_additional_info['updated_at'],
+                f"[{repository_additional_info['open_issues_count']}]({repository_additional_info['html_url']}/issues)",
+                repository_additional_info['license']['name'] if repository_additional_info['license'] else '🤷‍',
                 community_profile['health_percentage'],
                 community_profile['description'],
                 get_boolean_representation(community_profile.get('content_reports_enabled', '🤷‍')),
@@ -72,7 +73,7 @@ def generate_organization_report() -> None:
                 get_boolean_representation(community_profile_files['issue_template']),
                 get_boolean_representation(community_profile_files['pull_request_template']),
                 get_boolean_representation(community_profile_files['readme']),
-                repository['stargazers_count']
+                repository_additional_info['stargazers_count']
             ]
         )
 
