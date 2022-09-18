@@ -6,40 +6,20 @@ import requests
 from mdutils import MdUtils
 from typing import List
 
+from github.organization import GitHubOrganization
+
 ORGANIZATION = 'padaiyal'
 GITHUB_INSTANCE = 'https://api.github.com'
 GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_TOKEN")
 
-
-def get_repositories() -> list:
-    request = requests.get(
-        f'{GITHUB_INSTANCE}/orgs/{ORGANIZATION}/repos',
-        headers={'Authorization': f'token {GITHUB_ACCESS_TOKEN}'}
-    )
-    repositories: list = json.loads(request.content)
-    return repositories
+github_organization = GitHubOrganization(
+    server='https://api.github.com',
+    name='padaiyal'
+)
 
 
 def get_organization_report_name() -> str:
     return "README"
-
-
-def get_repository_community_profile(repository_name: str) -> dict:
-    request = requests.get(
-        f'{GITHUB_INSTANCE}/repos/{ORGANIZATION}/{repository_name}/community/profile',
-        headers={'Authorization': f'token {GITHUB_ACCESS_TOKEN}'}
-    )
-    community_profile: dict = json.loads(request.content)
-    return community_profile
-
-
-def get_repository_latest_version(repository_name: str) -> dict:
-    request = requests.get(
-        f'{GITHUB_INSTANCE}/repos/{ORGANIZATION}/{repository_name}/releases/latest',
-        headers={'Authorization': f'token {GITHUB_ACCESS_TOKEN}'}
-    )
-    latest_version: dict = json.loads(request.content)
-    return latest_version
 
 
 def get_boolean_representation(value) -> str:
@@ -51,7 +31,7 @@ def get_boolean_representation(value) -> str:
 
 
 def generate_organization_report() -> None:
-    repositories: list = get_repositories()
+    repositories: tuple = github_organization.get_repositories()
     organization_report_name: str = get_organization_report_name()
     table_headers: List[str] = ["Name", "Latest version", "Language", "Exposure", "Supported?", "Last Updated",
                                 "Open Issues", "License",
@@ -59,9 +39,8 @@ def generate_organization_report() -> None:
                                 "Contributing Guide?", "Issue template?", "Pull request template?", "README?", "Stars"]
     table: List[str] = list(table_headers)
     for repository in repositories:
-        print(repository['name'])
-        repository
-        community_profile: dict = get_repository_community_profile(repository['name'])
+        print(repository.name)
+        community_profile: dict = repository.get_repository_community_profile()
         community_profile['health_percentage'] = str(community_profile.get('health_percentage', '‍🤷'))
         community_profile['health_percentage'] += '%' if community_profile['health_percentage'] != '‍🤷' else ''
         community_profile['description'] = str(community_profile.get('description', '‍🤷'))
@@ -75,7 +54,7 @@ def generate_organization_report() -> None:
                 'readme': '🤷‍'
             }
         )
-        latest_release_info: dict = get_repository_latest_version(repository['name'])
+        latest_release_info: dict = repository.get_repository_latest_version()
         latest_release: str = f"[{latest_release_info.get('name', '🤷‍')}]({latest_release_info.get('html_url')})"
         table.extend(
             [
