@@ -33,6 +33,15 @@ def get_repository_community_profile(repository_name: str) -> dict:
     return community_profile
 
 
+def get_repository_latest_version(repository_name: str) -> dict:
+    request = requests.get(
+        f'{GITHUB_INSTANCE}/repos/{ORGANIZATION}/{repository_name}/releases/latest',
+        headers={'Authorization': f'token {GITHUB_ACCESS_TOKEN}'}
+    )
+    latest_version: dict = json.loads(request.content)
+    return latest_version
+
+
 def get_boolean_representation(value) -> str:
     if value == '🤷‍':
         return value
@@ -44,11 +53,14 @@ def get_boolean_representation(value) -> str:
 def generate_organization_report() -> None:
     repositories: list = get_repositories()
     organization_report_name: str = get_organization_report_name()
-    table_headers: List[str] = ["Name", "Language", "Exposure", "Supported?", "Last Updated", "Open Issues", "License",
+    table_headers: List[str] = ["Name", "Latest version", "Language", "Exposure", "Supported?", "Last Updated",
+                                "Open Issues", "License",
                                 "Health %", "Description", "Content reports enabled?", "Code of Conduct?",
                                 "Contributing Guide?", "Issue template?", "Pull request template?", "README?", "Stars"]
     table: List[str] = list(table_headers)
     for repository in repositories:
+        print(repository['name'])
+        repository
         community_profile: dict = get_repository_community_profile(repository['name'])
         community_profile['health_percentage'] = str(community_profile.get('health_percentage', '‍🤷'))
         community_profile['health_percentage'] += '%' if community_profile['health_percentage'] != '‍🤷' else ''
@@ -63,9 +75,12 @@ def generate_organization_report() -> None:
                 'readme': '🤷‍'
             }
         )
+        latest_release_info: dict = get_repository_latest_version(repository['name'])
+        latest_release: str = f"[{latest_release_info.get('name', '🤷‍')}]({latest_release_info.get('html_url')})"
         table.extend(
             [
                 f"[{repository['full_name']}]({repository['html_url']})",
+                latest_release,
                 repository['language'],
                 '🔒' if bool(repository['private']) else '🌏',
                 get_boolean_representation(not bool(repository['archived'])),
@@ -73,7 +88,7 @@ def generate_organization_report() -> None:
                 f"[{repository['open_issues_count']}]({repository['html_url']}/issues)",
                 repository['license']['name'] if repository['license'] else '🤷‍',
                 community_profile['health_percentage'],
-                get_boolean_representation(community_profile['description']),
+                community_profile['description'],
                 get_boolean_representation(community_profile.get('content_reports_enabled', '🤷‍')),
                 get_boolean_representation(community_profile_files['code_of_conduct']),
                 get_boolean_representation(community_profile_files['contributing']),
@@ -90,6 +105,14 @@ def generate_organization_report() -> None:
     md_file.new_line()
     md_file.new_table(columns=len(table_headers), rows=len(repositories) + 1, text=table, text_align='center')
     md_file.create_md_file()
+
+
+def generate_repository_documentation_report() -> None:
+    pass
+
+
+def generate_repository_health_report() -> None:
+    pass
 
 
 if __name__ == '__main__':
