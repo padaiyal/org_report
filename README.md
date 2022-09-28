@@ -1,5 +1,5 @@
 
-padaiyal report - 2022-09-27 03:29:12 UTC
+padaiyal report - 2022-09-28 03:35:47 UTC
 =========================================
   
 
@@ -30,5 +30,5 @@ padaiyal report - 2022-09-27 03:29:12 UTC
 |[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|[🤷‍](None)|Go|🌏|✅|2022-01-04T23:25:03Z|[0](https://github.com/padaiyal/go_project_template/issues)|Apache License 2.0|42%|None|❌|❌|❌|❌|✅|✅|0|
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|[🤷‍](None)|Python|🌏|✅|2022-01-14T00:59:36Z|[0](https://github.com/padaiyal/pyProjectTemplate/issues)|Apache License 2.0|42%|None|❌|❌|❌|❌|✅|✅|0|
 |[padaiyal/osnr](https://github.com/padaiyal/osnr)|[🤷‍](None)|Python|🌏|✅|2022-06-03T01:50:28Z|[7](https://github.com/padaiyal/osnr/issues)|Apache License 2.0|57%|One shot notification relay|❌|❌|❌|❌|✅|✅|1|
-|[padaiyal/org_report](https://github.com/padaiyal/org_report)|[🤷‍](None)|Python|🌏|✅|2022-07-22T21:29:47Z|[0](https://github.com/padaiyal/org_report/issues)|Apache License 2.0|42%|None|❌|❌|❌|❌|✅|✅|0|
+|[padaiyal/org_report](https://github.com/padaiyal/org_report)|[🤷‍](None)|Python|🌏|✅|2022-09-27T23:43:41Z|[2](https://github.com/padaiyal/org_report/issues)|Apache License 2.0|42%|None|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[🤷‍](None)|Java|🌏|✅|2022-08-26T01:37:54Z|[4](https://github.com/padaiyal/jMonocle/issues)|Apache License 2.0|57%|A mono repo containing all the java libraries.|❌|❌|❌|❌|✅|✅|0|
