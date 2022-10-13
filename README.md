@@ -1,5 +1,5 @@
 
-padaiyal report - 2022-10-12 03:30:49 UTC
+padaiyal report - 2022-10-13 03:33:37 UTC
 =========================================
   
 
@@ -8,7 +8,7 @@ padaiyal report - 2022-10-12 03:30:49 UTC
 |[padaiyal/jIcing](https://github.com/padaiyal/jIcing)|[2020.12.16](https://github.com/padaiyal/jIcing/releases/tag/2020.12.16)|Java|🌏|❌|2021-12-19T00:14:49Z|[24](https://github.com/padaiyal/jIcing/issues)|🤷‍|42%|This repository consists of additional functionality that will be useful to any Java programmer,|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/pySummarize](https://github.com/padaiyal/pySummarize)|[🤷‍](None)|Python|🌏|❌|2022-06-14T01:59:55Z|[2](https://github.com/padaiyal/pySummarize/issues)|GNU General Public License v3.0|57%|A commandline tool to summarize file data|❌|❌|❌|❌|✅|✅|0|
 |[padaiyal/jAdya](https://github.com/padaiyal/jAdya)|[🤷‍](None)|Java|🌏|❌|2022-05-24T18:58:09Z|[19](https://github.com/padaiyal/jAdya/issues)|Apache License 2.0|57%|Library to deploy and manage docker images/containers via Java.|❌|❌|❌|❌|✅|✅|4|
-|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2022.02.07](https://github.com/padaiyal/jPopper/releases/tag/2022.02.07)|Java|🌏|✅|2021-12-27T03:38:59Z|[5](https://github.com/padaiyal/jPopper/issues)|Apache License 2.0|71%|A parent for Java maven projects with best practices and commonly used checks enforced. |✅|❌|❌|❌|✅|✅|2|
+|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2022.02.07](https://github.com/padaiyal/jPopper/releases/tag/2022.02.07)|Java|🌏|✅|2021-12-27T03:38:59Z|[6](https://github.com/padaiyal/jPopper/issues)|Apache License 2.0|71%|A parent for Java maven projects with best practices and commonly used checks enforced. |✅|❌|❌|❌|✅|✅|2|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|[2021.05.10](https://github.com/padaiyal/jMavenProjectTemplate/releases/tag/2021.05.10)|Java|🌏|✅|2022-01-01T03:03:46Z|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|Apache License 2.0|71%|A template for Java maven projects.|✅|❌|❌|❌|✅|✅|2|
 |[padaiyal/jProperties](https://github.com/padaiyal/jProperties)|[2021.05.10](https://github.com/padaiyal/jProperties/releases/tag/2021.05.10)|Java|🌏|✅|2021-05-10T19:59:24Z|[1](https://github.com/padaiyal/jProperties/issues)|Apache License 2.0|57%|Load values from pre-specified property files.|❌|❌|❌|❌|✅|✅|1|
 |[padaiyal/jCommandLine](https://github.com/padaiyal/jCommandLine)|[2021.01.22](https://github.com/padaiyal/jCommandLine/releases/tag/2021.01.22)|Java|🌏|✅|2021-05-24T01:25:20Z|[0](https://github.com/padaiyal/jCommandLine/issues)|Apache License 2.0|57%|A library that can be used to execute commands in a shell or terminal.|❌|❌|❌|❌|✅|✅|1|
