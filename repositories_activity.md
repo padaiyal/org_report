@@ -1,11 +1,11 @@
 
-padaiyal - repositories_activity report - 2023-01-18 02:16:34 UTC
+padaiyal - repositories_activity report - 2023-01-19 02:18:18 UTC
 =================================================================
   
 
 |Name|Latest version|Last Updated|
 | :---: | :---: | :---: |
-|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.13](https://github.com/padaiyal/jPopper/releases/tag/2023.01.13)|2021-12-27T03:38:59Z|
+|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.18](https://github.com/padaiyal/jPopper/releases/tag/2023.01.18)|2023-01-18T22:45:22Z|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|[2021.05.10](https://github.com/padaiyal/jMavenProjectTemplate/releases/tag/2021.05.10)|2022-01-01T03:03:46Z|
 |[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|[🤷‍](None)|2022-01-20T01:52:23Z|
 |[padaiyal/jsReactMaterialUIExtras](https://github.com/padaiyal/jsReactMaterialUIExtras)|[🤷‍](None)|2023-01-17T17:31:50Z|
@@ -18,4 +18,4 @@ padaiyal - repositories_activity report - 2023-01-18 02:16:34 UTC
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|[🤷‍](None)|2022-01-14T00:59:36Z|
 |[padaiyal/osnr](https://github.com/padaiyal/osnr)|[🤷‍](None)|2022-06-03T01:50:28Z|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|[🤷‍](None)|2022-11-05T02:55:50Z|
-|[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[🤷‍](None)|2022-08-26T01:37:54Z|
+|[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[test_release](https://github.com/padaiyal/jMonocle/releases/tag/test_release)|2022-08-26T01:37:54Z|

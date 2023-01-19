@@ -1,5 +1,5 @@
 
-padaiyal - repositories_archived report - 2023-01-18 02:16:15 UTC
+padaiyal - repositories_archived report - 2023-01-19 02:17:51 UTC
 =================================================================
   
 
@@ -8,7 +8,7 @@ padaiyal - repositories_archived report - 2023-01-18 02:16:15 UTC
 |[padaiyal/jIcing](https://github.com/padaiyal/jIcing)|[2020.12.16](https://github.com/padaiyal/jIcing/releases/tag/2020.12.16)|🤷‍|This repository consists of additional functionality that will be useful to any Java programmer,|Java|🌏|❌|2021-12-19T00:14:49Z|[24](https://github.com/padaiyal/jIcing/issues)|
 |[padaiyal/pySummarize](https://github.com/padaiyal/pySummarize)|[🤷‍](None)|GNU General Public License v3.0|A commandline tool to summarize file data|Python|🌏|❌|2022-06-14T01:59:55Z|[2](https://github.com/padaiyal/pySummarize/issues)|
 |[padaiyal/jAdya](https://github.com/padaiyal/jAdya)|[🤷‍](None)|Apache License 2.0|Library to deploy and manage docker images/containers via Java.|Java|🌏|❌|2022-05-24T18:58:09Z|[19](https://github.com/padaiyal/jAdya/issues)|
-|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.13](https://github.com/padaiyal/jPopper/releases/tag/2023.01.13)|Apache License 2.0|A parent for Java maven projects with best practices and commonly used checks enforced. |Java|🌏|✅|2021-12-27T03:38:59Z|[6](https://github.com/padaiyal/jPopper/issues)|
+|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.18](https://github.com/padaiyal/jPopper/releases/tag/2023.01.18)|Apache License 2.0|A parent for Java maven projects with best practices and commonly used checks enforced. |Java|🌏|✅|2023-01-18T22:45:22Z|[6](https://github.com/padaiyal/jPopper/issues)|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|[2021.05.10](https://github.com/padaiyal/jMavenProjectTemplate/releases/tag/2021.05.10)|Apache License 2.0|A template for Java maven projects.|Java|🌏|✅|2022-01-01T03:03:46Z|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|
 |[padaiyal/jProperties](https://github.com/padaiyal/jProperties)|[2021.05.10](https://github.com/padaiyal/jProperties/releases/tag/2021.05.10)|Apache License 2.0|Load values from pre-specified property files.|Java|🌏|❌|2023-01-13T02:39:53Z|[1](https://github.com/padaiyal/jProperties/issues)|
 |[padaiyal/jCommandLine](https://github.com/padaiyal/jCommandLine)|[2021.01.22](https://github.com/padaiyal/jCommandLine/releases/tag/2021.01.22)|Apache License 2.0|A library that can be used to execute commands in a shell or terminal.|Java|🌏|❌|2023-01-13T02:39:20Z|[0](https://github.com/padaiyal/jCommandLine/issues)|
@@ -31,4 +31,4 @@ padaiyal - repositories_archived report - 2023-01-18 02:16:15 UTC
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|[🤷‍](None)|Apache License 2.0|None|Python|🌏|✅|2022-01-14T00:59:36Z|[0](https://github.com/padaiyal/pyProjectTemplate/issues)|
 |[padaiyal/osnr](https://github.com/padaiyal/osnr)|[🤷‍](None)|Apache License 2.0|One shot notification relay|Python|🌏|✅|2022-06-03T01:50:28Z|[7](https://github.com/padaiyal/osnr/issues)|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|[🤷‍](None)|Apache License 2.0|None|Python|🌏|✅|2022-11-05T02:55:50Z|[2](https://github.com/padaiyal/org_report/issues)|
-|[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[🤷‍](None)|Apache License 2.0|A mono repo containing all the java libraries.|Java|🌏|✅|2022-08-26T01:37:54Z|[0](https://github.com/padaiyal/jMonocle/issues)|
+|[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[test_release](https://github.com/padaiyal/jMonocle/releases/tag/test_release)|Apache License 2.0|A mono repo containing all the java libraries.|Java|🌏|✅|2022-08-26T01:37:54Z|[1](https://github.com/padaiyal/jMonocle/issues)|
