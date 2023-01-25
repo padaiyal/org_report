@@ -1,11 +1,11 @@
 
-padaiyal - repositories_active report - 2023-01-24 02:11:33 UTC
+padaiyal - repositories_active report - 2023-01-25 02:11:30 UTC
 ===============================================================
   
 
 |Name|Latest version|License|Description|Language|Exposure|Supported?|Last Updated|Open Issues|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.18](https://github.com/padaiyal/jPopper/releases/tag/2023.01.18)|Apache License 2.0|A parent for Java maven projects with best practices and commonly used checks enforced. |Java|🌏|✅|2023-01-18T22:45:22Z|[6](https://github.com/padaiyal/jPopper/issues)|
+|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.24](https://github.com/padaiyal/jPopper/releases/tag/2023.01.24)|Apache License 2.0|A parent for Java maven projects with best practices and commonly used checks enforced. |Java|🌏|✅|2023-01-18T22:45:22Z|[4](https://github.com/padaiyal/jPopper/issues)|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|[2021.05.10](https://github.com/padaiyal/jMavenProjectTemplate/releases/tag/2021.05.10)|Apache License 2.0|A template for Java maven projects.|Java|🌏|✅|2022-01-01T03:03:46Z|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|
 |[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|[🤷‍](None)|Apache License 2.0|A template repository for react projects.|JavaScript|🌏|✅|2022-01-20T01:52:23Z|[18](https://github.com/padaiyal/jsReactNpmProjectTemplate/issues)|
 |[padaiyal/jsReactMaterialUIExtras](https://github.com/padaiyal/jsReactMaterialUIExtras)|[🤷‍](None)|Apache License 2.0|Additional components for the React material UI.|JavaScript|🌏|✅|2023-01-17T17:31:50Z|[23](https://github.com/padaiyal/jsReactMaterialUIExtras/issues)|

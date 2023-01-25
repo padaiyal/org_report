@@ -1,11 +1,11 @@
 
-padaiyal - repositories_health report - 2023-01-24 02:12:00 UTC
+padaiyal - repositories_health report - 2023-01-25 02:11:57 UTC
 ===============================================================
   
 
 |Name|Exposure|Supported?|Last Updated|Health %|Open Issues|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|🌏|✅|2023-01-18T22:45:22Z|62%|[6](https://github.com/padaiyal/jPopper/issues)|
+|[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|🌏|✅|2023-01-18T22:45:22Z|62%|[4](https://github.com/padaiyal/jPopper/issues)|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|🌏|✅|2022-01-01T03:03:46Z|62%|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|
 |[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|🌏|✅|2022-01-20T01:52:23Z|50%|[18](https://github.com/padaiyal/jsReactNpmProjectTemplate/issues)|
 |[padaiyal/jsReactMaterialUIExtras](https://github.com/padaiyal/jsReactMaterialUIExtras)|🌏|✅|2023-01-17T17:31:50Z|50%|[23](https://github.com/padaiyal/jsReactMaterialUIExtras/issues)|
