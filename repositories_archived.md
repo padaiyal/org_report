@@ -1,13 +1,13 @@
 
-padaiyal - repositories_archived report - 2023-01-27 02:15:08 UTC
+padaiyal - repositories_archived report - 2023-01-28 02:14:29 UTC
 =================================================================
   
 
 |Name|Latest version|License|Description|Language|Exposure|Supported?|Last Updated|Open Issues|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[padaiyal/jIcing](https://github.com/padaiyal/jIcing)|[2020.12.16](https://github.com/padaiyal/jIcing/releases/tag/2020.12.16)|🤷‍|This repository consists of additional functionality that will be useful to any Java programmer,|Java|🌏|❌|2021-12-19T00:14:49Z|[24](https://github.com/padaiyal/jIcing/issues)|
-|[padaiyal/pySummarize](https://github.com/padaiyal/pySummarize)|[🤷‍](None)|GNU General Public License v3.0|A commandline tool to summarize file data|Python|🌏|❌|2022-06-14T01:59:55Z|[2](https://github.com/padaiyal/pySummarize/issues)|
-|[padaiyal/jAdya](https://github.com/padaiyal/jAdya)|[🤷‍](None)|Apache License 2.0|Library to deploy and manage docker images/containers via Java.|Java|🌏|❌|2022-05-24T18:58:09Z|[19](https://github.com/padaiyal/jAdya/issues)|
+|[padaiyal/pySummarize](https://github.com/padaiyal/pySummarize)|[🤷‍](None)|GNU General Public License v3.0|A commandline tool to summarize file data|Python|🌏|❌|2023-01-27T23:55:46Z|[2](https://github.com/padaiyal/pySummarize/issues)|
+|[padaiyal/jAdya](https://github.com/padaiyal/jAdya)|[🤷‍](None)|Apache License 2.0|Library to deploy and manage docker images/containers via Java.|Java|🌏|❌|2023-01-28T00:31:10Z|[19](https://github.com/padaiyal/jAdya/issues)|
 |[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|[2023.01.24](https://github.com/padaiyal/jPopper/releases/tag/2023.01.24)|Apache License 2.0|A parent for Java maven projects with best practices and commonly used checks enforced. |Java|🌏|✅|2023-01-18T22:45:22Z|[4](https://github.com/padaiyal/jPopper/issues)|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|[2021.05.10](https://github.com/padaiyal/jMavenProjectTemplate/releases/tag/2021.05.10)|Apache License 2.0|A template for Java maven projects.|Java|🌏|✅|2022-01-01T03:03:46Z|[3](https://github.com/padaiyal/jMavenProjectTemplate/issues)|
 |[padaiyal/jProperties](https://github.com/padaiyal/jProperties)|[2021.05.10](https://github.com/padaiyal/jProperties/releases/tag/2021.05.10)|Apache License 2.0|Load values from pre-specified property files.|Java|🌏|❌|2023-01-13T02:39:53Z|[1](https://github.com/padaiyal/jProperties/issues)|
@@ -20,8 +20,8 @@ padaiyal - repositories_archived report - 2023-01-27 02:15:08 UTC
 |[padaiyal/jWiki](https://github.com/padaiyal/jWiki)|[🤷‍](None)|Apache License 2.0|A wiki for java related information.|Java|🌏|✅|2021-10-22T13:34:08Z|[16](https://github.com/padaiyal/jWiki/issues)|
 |[padaiyal/.github](https://github.com/padaiyal/.github)|[🤷‍](None)|Apache License 2.0|The default .github folder for all repositories in this organization.|None|🌏|✅|2021-12-31T18:32:30Z|[3](https://github.com/padaiyal/.github/issues)|
 |[padaiyal/goWiki](https://github.com/padaiyal/goWiki)|[🤷‍](None)|Apache License 2.0|A knowledge repository for Golang.|Go|🌏|✅|2022-03-27T23:55:18Z|[0](https://github.com/padaiyal/goWiki/issues)|
-|[padaiyal/jAayvalar](https://github.com/padaiyal/jAayvalar)|[2021.05.02](https://github.com/padaiyal/jAayvalar/releases/tag/2021.05.02)|Apache License 2.0|A java library for analyzing data.|Java|🌏|❌|2022-06-14T01:57:13Z|[16](https://github.com/padaiyal/jAayvalar/issues)|
-|[padaiyal/jDataStructures](https://github.com/padaiyal/jDataStructures)|[🤷‍](None)|Apache License 2.0|None|Java|🌏|❌|2022-06-14T01:58:49Z|[9](https://github.com/padaiyal/jDataStructures/issues)|
+|[padaiyal/jAayvalar](https://github.com/padaiyal/jAayvalar)|[2021.05.02](https://github.com/padaiyal/jAayvalar/releases/tag/2021.05.02)|Apache License 2.0|A java library for analyzing data.|Java|🌏|❌|2023-01-27T23:55:48Z|[16](https://github.com/padaiyal/jAayvalar/issues)|
+|[padaiyal/jDataStructures](https://github.com/padaiyal/jDataStructures)|[🤷‍](None)|Apache License 2.0|None|Java|🌏|❌|2023-01-27T23:55:48Z|[9](https://github.com/padaiyal/jDataStructures/issues)|
 |[padaiyal/jUnitTestExtras](https://github.com/padaiyal/jUnitTestExtras)|[2021.05.30](https://github.com/padaiyal/jUnitTestExtras/releases/tag/2021.05.30)|Apache License 2.0|Helper functions/annotations for JUnit tests|Java|🌏|❌|2023-01-13T02:37:49Z|[1](https://github.com/padaiyal/jUnitTestExtras/issues)|
 |[padaiyal/pyWiki](https://github.com/padaiyal/pyWiki)|[🤷‍](None)|🤷‍|A collection of information related to python. |Python|🌏|✅|2022-06-02T00:51:11Z|[0](https://github.com/padaiyal/pyWiki/issues)|
 |[padaiyal/jHost](https://github.com/padaiyal/jHost)|[🤷‍](None)|Apache License 2.0|Retrieves host related info.|Java|🌏|❌|2023-01-13T02:40:10Z|[16](https://github.com/padaiyal/jHost/issues)|
