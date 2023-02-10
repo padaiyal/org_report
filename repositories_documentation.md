@@ -1,5 +1,5 @@
 
-padaiyal - repositories_documentation report - 2023-02-09 02:17:56 UTC
+padaiyal - repositories_documentation report - 2023-02-10 02:22:11 UTC
 ======================================================================
   
 
@@ -10,7 +10,7 @@ padaiyal - repositories_documentation report - 2023-02-09 02:17:56 UTC
 |[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|A template repository for react projects.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/jsReactMaterialUIExtras](https://github.com/padaiyal/jsReactMaterialUIExtras)|Additional components for the React material UI.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/jWiki](https://github.com/padaiyal/jWiki)|A wiki for java related information.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
-|[padaiyal/.github](https://github.com/padaiyal/.github)|The default .github folder for all repositories in this organization.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|1|
+|[padaiyal/.github](https://github.com/padaiyal/.github)|The default .github folder for all repositories in this organization.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/goWiki](https://github.com/padaiyal/goWiki)|A knowledge repository for Golang.|37%|❌|❌|❌|❌|✅|Apache License 2.0|❌|1|
 |[padaiyal/pyWiki](https://github.com/padaiyal/pyWiki)|A collection of information related to python. |37%|❌|❌|❌|❌|✅|🤷‍|✅|2|
 |[padaiyal/jWorkflowPlayground](https://github.com/padaiyal/jWorkflowPlayground)|A repository for testing workflow actions used by other Java repos|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
