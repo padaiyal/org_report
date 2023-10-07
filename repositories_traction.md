@@ -1,5 +1,5 @@
 
-padaiyal - repositories_traction report - 2023-10-06 01:44:19 UTC
+padaiyal - repositories_traction report - 2023-10-07 01:42:47 UTC
 =================================================================
   
 
@@ -19,3 +19,4 @@ padaiyal - repositories_traction report - 2023-10-06 01:44:19 UTC
 |[padaiyal/osnr](https://github.com/padaiyal/osnr)|1|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|2|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|1|
+|[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|0|
