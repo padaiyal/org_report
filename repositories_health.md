@@ -1,5 +1,5 @@
 
-padaiyal - repositories_health report - 2023-12-10 01:56:09 UTC
+padaiyal - repositories_health report - 2023-12-11 01:53:26 UTC
 ===============================================================
   
 
@@ -16,7 +16,6 @@ padaiyal - repositories_health report - 2023-12-10 01:56:09 UTC
 |[padaiyal/jWorkflowPlayground](https://github.com/padaiyal/jWorkflowPlayground)|🌏|✅|2021-12-31T07:08:27Z|50%|[0](https://github.com/padaiyal/jWorkflowPlayground/issues)|
 |[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|🌏|✅|2022-01-04T23:25:03Z|37%|[0](https://github.com/padaiyal/go_project_template/issues)|
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|🌏|✅|2022-01-14T00:59:36Z|37%|[0](https://github.com/padaiyal/pyProjectTemplate/issues)|
-|[padaiyal/osnr](https://github.com/padaiyal/osnr)|🌏|✅|2022-06-03T01:50:28Z|50%|[7](https://github.com/padaiyal/osnr/issues)|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|🌏|✅|2022-11-05T02:55:50Z|37%|[2](https://github.com/padaiyal/org_report/issues)|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|🌏|✅|2023-03-01T01:18:05Z|50%|[4](https://github.com/padaiyal/jMonocle/issues)|
 |[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|🌏|✅|2023-10-07T01:26:28Z|37%|[1](https://github.com/padaiyal/gobbler/issues)|

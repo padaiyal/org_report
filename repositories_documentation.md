@@ -1,5 +1,5 @@
 
-padaiyal - repositories_documentation report - 2023-12-10 01:56:00 UTC
+padaiyal - repositories_documentation report - 2023-12-11 01:53:18 UTC
 ======================================================================
   
 
@@ -16,7 +16,6 @@ padaiyal - repositories_documentation report - 2023-12-10 01:56:00 UTC
 |[padaiyal/jWorkflowPlayground](https://github.com/padaiyal/jWorkflowPlayground)|A repository for testing workflow actions used by other Java repos|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
 |[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|None|37%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|None|37%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
-|[padaiyal/osnr](https://github.com/padaiyal/osnr)|One shot notification relay|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|1|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|None|37%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|A mono repo containing all the java libraries.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|1|
 |[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|A tool for analyzing and processing data.|37%|✅|❌|❌|❌|✅|🤷‍|❌|0|

@@ -1,5 +1,5 @@
 
-padaiyal - repositories_traction report - 2023-12-10 01:56:27 UTC
+padaiyal - repositories_traction report - 2023-12-11 01:53:42 UTC
 =================================================================
   
 
@@ -16,7 +16,6 @@ padaiyal - repositories_traction report - 2023-12-10 01:56:27 UTC
 |[padaiyal/jWorkflowPlayground](https://github.com/padaiyal/jWorkflowPlayground)|0|
 |[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|0|
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|0|
-|[padaiyal/osnr](https://github.com/padaiyal/osnr)|1|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|2|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|1|
 |[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|0|
