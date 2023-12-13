@@ -1,5 +1,5 @@
 
-padaiyal - repositories_archived report - 2023-12-12 01:53:25 UTC
+padaiyal - repositories_archived report - 2023-12-13 01:52:50 UTC
 =================================================================
   
 
@@ -31,5 +31,5 @@ padaiyal - repositories_archived report - 2023-12-12 01:53:25 UTC
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|[🤷‍](None)|Apache License 2.0|None|Python|🌏|✅|2022-01-14T00:59:36Z|[0](https://github.com/padaiyal/pyProjectTemplate/issues)|
 |[padaiyal/osnr](https://github.com/padaiyal/osnr)|[🤷‍](None)|Apache License 2.0|One shot notification relay|Python|🌏|❌|2023-12-10T06:03:46Z|[7](https://github.com/padaiyal/osnr/issues)|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|[🤷‍](None)|Apache License 2.0|None|Python|🌏|✅|2022-11-05T02:55:50Z|[2](https://github.com/padaiyal/org_report/issues)|
-|[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[2023.02.07](https://github.com/padaiyal/jMonocle/releases/tag/2023.02.07)|Apache License 2.0|A mono repo containing all the java libraries.|Java|🌏|✅|2023-03-01T01:18:05Z|[4](https://github.com/padaiyal/jMonocle/issues)|
+|[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|[2023.12.11](https://github.com/padaiyal/jMonocle/releases/tag/2023.12.11)|Apache License 2.0|A mono repo containing all the java libraries.|Java|🌏|✅|2023-03-01T01:18:05Z|[2](https://github.com/padaiyal/jMonocle/issues)|
 |[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|[🤷‍](None)|🤷‍|A tool for analyzing and processing data.|Go|🌏|✅|2023-10-07T01:26:28Z|[1](https://github.com/padaiyal/gobbler/issues)|
