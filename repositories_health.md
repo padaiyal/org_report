@@ -1,5 +1,5 @@
 
-padaiyal - repositories_health report - 2023-12-18 01:52:49 UTC
+padaiyal - repositories_health report - 2023-12-19 01:52:03 UTC
 ===============================================================
   
 
@@ -18,4 +18,4 @@ padaiyal - repositories_health report - 2023-12-18 01:52:49 UTC
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|🌏|✅|2022-01-14T00:59:36Z|37%|[0](https://github.com/padaiyal/pyProjectTemplate/issues)|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|🌏|✅|2022-11-05T02:55:50Z|37%|[2](https://github.com/padaiyal/org_report/issues)|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|🌏|✅|2023-03-01T01:18:05Z|50%|[2](https://github.com/padaiyal/jMonocle/issues)|
-|[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|🌏|✅|2023-10-07T01:26:28Z|37%|[1](https://github.com/padaiyal/gobbler/issues)|
+|[padaiyal/gobbler](https://github.com/padaiyal/gobbler)|🌏|✅|2023-10-07T01:26:28Z|37%|[2](https://github.com/padaiyal/gobbler/issues)|
