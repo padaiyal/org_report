@@ -1,5 +1,5 @@
 
-padaiyal - repositories_archived report - 2024-01-30 01:41:40 UTC
+padaiyal - repositories_archived report - 2024-01-31 01:42:13 UTC
 =================================================================
   
 
@@ -21,7 +21,7 @@ padaiyal - repositories_archived report - 2024-01-30 01:41:40 UTC
 |[padaiyal/.github](https://github.com/padaiyal/.github)|[🤷‍](None)|Apache License 2.0|The default .github folder for all repositories in this organization.|None|🌏|✅|2023-02-09T16:14:42Z|[3](https://github.com/padaiyal/.github/issues)|
 |[padaiyal/goWiki](https://github.com/padaiyal/goWiki)|[🤷‍](None)|Apache License 2.0|A knowledge repository for Golang.|Go|🌏|✅|2022-03-27T23:55:18Z|[0](https://github.com/padaiyal/goWiki/issues)|
 |[padaiyal/jAayvalar](https://github.com/padaiyal/jAayvalar)|[2021.05.02](https://github.com/padaiyal/jAayvalar/releases/tag/2021.05.02)|Apache License 2.0|A java library for analyzing data.|Java|🌏|❌|2023-01-27T23:55:48Z|[16](https://github.com/padaiyal/jAayvalar/issues)|
-|[padaiyal/jDataStructures](https://github.com/padaiyal/jDataStructures)|[🤷‍](None)|Apache License 2.0|None|Java|🌏|❌|2023-01-27T23:55:48Z|[9](https://github.com/padaiyal/jDataStructures/issues)|
+|[padaiyal/jDataStructures](https://github.com/padaiyal/jDataStructures)|[🤷‍](None)|Apache License 2.0|None|Java|🌏|❌|2024-01-30T10:13:09Z|[9](https://github.com/padaiyal/jDataStructures/issues)|
 |[padaiyal/jUnitTestExtras](https://github.com/padaiyal/jUnitTestExtras)|[2021.05.30](https://github.com/padaiyal/jUnitTestExtras/releases/tag/2021.05.30)|Apache License 2.0|Helper functions/annotations for JUnit tests|Java|🌏|❌|2023-01-13T02:37:49Z|[1](https://github.com/padaiyal/jUnitTestExtras/issues)|
 |[padaiyal/pyWiki](https://github.com/padaiyal/pyWiki)|[🤷‍](None)|🤷‍|A collection of information related to python. |Python|🌏|✅|2022-06-02T00:51:11Z|[0](https://github.com/padaiyal/pyWiki/issues)|
 |[padaiyal/jHost](https://github.com/padaiyal/jHost)|[🤷‍](None)|Apache License 2.0|Retrieves host related info.|Java|🌏|❌|2023-01-13T02:40:10Z|[16](https://github.com/padaiyal/jHost/issues)|
