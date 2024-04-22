@@ -1,5 +1,5 @@
 
-padaiyal - repositories_documentation report - 2024-04-21 01:51:47 UTC
+padaiyal - repositories_documentation report - 2024-04-22 01:50:42 UTC
 ======================================================================
   
 
@@ -14,7 +14,7 @@ padaiyal - repositories_documentation report - 2024-04-21 01:51:47 UTC
 |[padaiyal/goWiki](https://github.com/padaiyal/goWiki)|A knowledge repository for Golang.|37%|❌|❌|❌|❌|✅|Apache License 2.0|❌|1|
 |[padaiyal/pyWiki](https://github.com/padaiyal/pyWiki)|A collection of information related to python. |37%|❌|❌|❌|❌|✅|🤷‍|✅|2|
 |[padaiyal/jWorkflowPlayground](https://github.com/padaiyal/jWorkflowPlayground)|A repository for testing workflow actions used by other Java repos|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
-|[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|None|37%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
+|[padaiyal/go_project_template](https://github.com/padaiyal/go_project_template)|Golang project template|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
 |[padaiyal/pyProjectTemplate](https://github.com/padaiyal/pyProjectTemplate)|None|37%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
 |[padaiyal/org_report](https://github.com/padaiyal/org_report)|None|37%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/jMonocle](https://github.com/padaiyal/jMonocle)|A mono repo containing all the java libraries.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|1|
