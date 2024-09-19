@@ -1,5 +1,5 @@
 
-padaiyal - repositories_documentation report - 2024-09-18 02:09:20 UTC
+padaiyal - repositories_documentation report - 2024-09-19 02:11:10 UTC
 ======================================================================
   
 
@@ -7,7 +7,7 @@ padaiyal - repositories_documentation report - 2024-09-18 02:09:20 UTC
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|A parent for Java maven projects with best practices and commonly used checks enforced. |62%|✅|❌|❌|❌|✅|Apache License 2.0|✅|3|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|A template for Java maven projects.|62%|✅|❌|❌|❌|✅|Apache License 2.0|✅|2|
-|[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|A template repository for react projects.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|3|
+|[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|A template repository for react projects.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/jsReactMaterialUIExtras](https://github.com/padaiyal/jsReactMaterialUIExtras)|Additional components for the React material UI.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
 |[padaiyal/jWiki](https://github.com/padaiyal/jWiki)|A wiki for java related information.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|0|
 |[padaiyal/.github](https://github.com/padaiyal/.github)|The default .github folder for all repositories in this organization.|50%|❌|❌|❌|❌|✅|Apache License 2.0|✅|2|
