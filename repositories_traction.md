@@ -1,5 +1,5 @@
 
-padaiyal - repositories_traction report - 2024-09-30 02:19:16 UTC
+padaiyal - repositories_traction report - 2024-10-01 02:22:59 UTC
 =================================================================
   
 
@@ -7,7 +7,6 @@ padaiyal - repositories_traction report - 2024-09-30 02:19:16 UTC
 | :---: | :---: |
 |[padaiyal/jPopper](https://github.com/padaiyal/jPopper)|3|
 |[padaiyal/jMavenProjectTemplate](https://github.com/padaiyal/jMavenProjectTemplate)|2|
-|[padaiyal/jsReactNpmProjectTemplate](https://github.com/padaiyal/jsReactNpmProjectTemplate)|2|
 |[padaiyal/jsReactMaterialUIExtras](https://github.com/padaiyal/jsReactMaterialUIExtras)|2|
 |[padaiyal/jWiki](https://github.com/padaiyal/jWiki)|0|
 |[padaiyal/.github](https://github.com/padaiyal/.github)|2|
